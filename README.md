@@ -1,3 +1,8 @@
 # 蒙建检测官网
 
-静态 HTML/CSS/JavaScript 网站。报告进度查询暂未接入实际报告系统。
+HTML/CSS/JavaScript 静态网站，文件位于根目录。
+
+## 发布
+Settings → Pages → Deploy from a branch → main → / (root) → Save。
+
+报告进度查询尚未接入真实业务系统。
